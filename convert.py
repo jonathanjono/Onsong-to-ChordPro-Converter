@@ -1,8 +1,8 @@
 import os
 import re
 
-regular_folder = "/Users/jonathanyu/Desktop/coding/hopekcc_chordpro/temp/worship"
-converted_folder = "/Users/jonathanyu/Desktop/coding/hopekcc_chordpro/converted"
+regular_folder = "path"
+converted_folder = "path"
 
 def read_edit(file_name):
     print(f"Converting {file_name}...")
